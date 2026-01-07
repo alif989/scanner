@@ -2,7 +2,7 @@
     <div class="container">
         <!-- Logo -->
         <a class="navbar-brand" href="{{ route('dashboard') }}">
-            <i class="bi bi-upc-scan me-2"></i>{{ config('app.name', 'Laravel') }}
+            <i class="bi bi-qr-code me-2"></i>{{ config('app.name', 'Laravel') }}
         </a>
 
         <!-- Mobile Toggle -->
